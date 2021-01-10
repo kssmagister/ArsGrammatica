@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Grammatik on LinguaLatina</title>
-    <link>https://hugo.kss-latein.info/grammatik/</link>
-    <description>Recent content in Grammatik on LinguaLatina</description>
+    <title>Grammatik on ArsGrammatica</title>
+    <link>https://kssmagister.github.io/ArsGrammatica/grammatik/</link>
+    <description>Recent content in Grammatik on ArsGrammatica</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 03 Jan 2021 00:00:00 +0100</lastBuildDate><atom:link href="https://hugo.kss-latein.info/grammatik/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Jan 2021 00:00:00 +0100</lastBuildDate><atom:link href="https://kssmagister.github.io/ArsGrammatica/grammatik/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Download</title>
-      <link>https://hugo.kss-latein.info/grammatik/001-download/</link>
+      <link>https://kssmagister.github.io/ArsGrammatica/grammatik/001-download/</link>
       <pubDate>Sun, 03 Jan 2021 00:00:00 +0100</pubDate>
       
-      <guid>https://hugo.kss-latein.info/grammatik/001-download/</guid>
+      <guid>https://kssmagister.github.io/ArsGrammatica/grammatik/001-download/</guid>
       <description>Die gesamte Homepage kann als pdf-Datei heruntergeladen werden:
  LinguaLatina.pdf  </description>
     </item>
     
     <item>
       <title>Formenlehre</title>
-      <link>https://hugo.kss-latein.info/grammatik/002-formenlehre/</link>
+      <link>https://kssmagister.github.io/ArsGrammatica/grammatik/002-formenlehre/</link>
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0100</pubDate>
       
-      <guid>https://hugo.kss-latein.info/grammatik/002-formenlehre/</guid>
+      <guid>https://kssmagister.github.io/ArsGrammatica/grammatik/002-formenlehre/</guid>
       <description>Hier findest du verschiedene Übersichten über die lat. Formenlehre.
  Tabellen Repetitionskarten:  Verbformen im Indikativ Verbformen im Konjunktiv Pronomen   Deklinationsendungen  </description>
     </item>
     
     <item>
       <title>Kasuslehre</title>
-      <link>https://hugo.kss-latein.info/grammatik/003-kasuslehre/</link>
+      <link>https://kssmagister.github.io/ArsGrammatica/grammatik/003-kasuslehre/</link>
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0100</pubDate>
       
-      <guid>https://hugo.kss-latein.info/grammatik/003-kasuslehre/</guid>
+      <guid>https://kssmagister.github.io/ArsGrammatica/grammatik/003-kasuslehre/</guid>
       <description>Das Latein teilt mit dem Deutschen wegen seiner indogermanischen Verwandtschaft weite Bereiche in der Kasuslehre, d.h.: Kasusfunktionen, wie wir sie im Deutschen kennen, kommen auch im Latein vor. Allerdings gibt es auch eine Reihe von Situationen, wo der Gebrauch abweicht. Solche Abweichungen werden in den unten stehenden Übungssätzen thematisiert.
  Das wichtigste der lat. Kasuslehre ist auf den folgenden Blättern zusammengestellt:
  Nominativ (Der Nominativ dient zu 99.99% als Subjekt.) Genitiv Dativ Akkusativ Ablativ    Übungssätze zum Akkusativ und Dativ (Wortangaben) Übungssätze zum Genitiv und Ablativ (Wortangaben)  </description>
@@ -39,10 +39,10 @@
     
     <item>
       <title>Satzlehre</title>
-      <link>https://hugo.kss-latein.info/grammatik/004-satzlehre/</link>
+      <link>https://kssmagister.github.io/ArsGrammatica/grammatik/004-satzlehre/</link>
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0100</pubDate>
       
-      <guid>https://hugo.kss-latein.info/grammatik/004-satzlehre/</guid>
+      <guid>https://kssmagister.github.io/ArsGrammatica/grammatik/004-satzlehre/</guid>
       <description>Die Satzlehre beschreibt den Bau von Sätzen, die Satzarten und Satzglieder. In der lat. Grammatik verwenden wir für die Darstellung der Satzglieder das sog. &amp;ldquo;Satzmodell&amp;rdquo;.
 
   Erläuterungen zum Satzmodell, besonders was alles Subjekt, Objekt etc. sein kann, findest du in diesem Dokument.  Einzelne Satzglieder:
@@ -51,10 +51,10 @@
     
     <item>
       <title>Satzwertige Konstruktionen</title>
-      <link>https://hugo.kss-latein.info/grammatik/005-satzwertige-konstruktionen/</link>
+      <link>https://kssmagister.github.io/ArsGrammatica/grammatik/005-satzwertige-konstruktionen/</link>
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0100</pubDate>
       
-      <guid>https://hugo.kss-latein.info/grammatik/005-satzwertige-konstruktionen/</guid>
+      <guid>https://kssmagister.github.io/ArsGrammatica/grammatik/005-satzwertige-konstruktionen/</guid>
       <description>Eine satzwertige Konstruktion ist eine lateinische Konstruktion, die im Deutschen oft mit einem Satz (Haupt- oder Nebensatz) übersetzt wird.
 Folgende lat. Konstruktionen gelten als satzwertig:
  Partizipialkonstruktionen  participium coniunctum (p.c.) ablativus absolutus (abl.abs.)   Infinitivkonstruktionen  accusativus cum infinitivo (AcI) nominativus cum infinitivo (NcI)   nd-Formen (Gerundialia)  Gerundium Gerundiv    Grundlegende Erläuterungen zu den satzwertigen Konstruktionen findest du in diesem Dokument. Eine Kurzzusammenfassung findest du hier.</description>

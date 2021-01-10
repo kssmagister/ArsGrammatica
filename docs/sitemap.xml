@@ -3,74 +3,86 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://hugo.kss-latein.info/grammatik/</loc>
+    <loc>https://kssmagister.github.io/ArsGrammatica/grammatik/</loc>
     <lastmod>2021-01-03T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hugo.kss-latein.info/texte/</loc>
+    <loc>https://kssmagister.github.io/ArsGrammatica/texte/</loc>
     <lastmod>2021-01-03T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hugo.kss-latein.info/vokabular/</loc>
+    <loc>https://kssmagister.github.io/ArsGrammatica/vokabular/</loc>
     <lastmod>2021-01-03T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hugo.kss-latein.info/grammatik/001-download/</loc>
+    <loc>https://kssmagister.github.io/ArsGrammatica/</loc>
     <lastmod>2021-01-03T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hugo.kss-latein.info/vokabular/001-vokabular/</loc>
+    <loc>https://kssmagister.github.io/ArsGrammatica/grammatik/001-download/</loc>
     <lastmod>2021-01-03T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hugo.kss-latein.info/</loc>
+    <loc>https://kssmagister.github.io/ArsGrammatica/vokabular/001-vokabular/</loc>
     <lastmod>2021-01-03T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hugo.kss-latein.info/texte/001-uemm/</loc>
+    <loc>https://kssmagister.github.io/ArsGrammatica/texte/001-uemm/</loc>
     <lastmod>2021-01-03T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hugo.kss-latein.info/grammatik/002-formenlehre/</loc>
+    <loc>https://kssmagister.github.io/ArsGrammatica/grammatik/002-formenlehre/</loc>
     <lastmod>2021-01-02T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hugo.kss-latein.info/grammatik/003-kasuslehre/</loc>
+    <loc>https://kssmagister.github.io/ArsGrammatica/grammatik/003-kasuslehre/</loc>
     <lastmod>2021-01-02T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hugo.kss-latein.info/grammatik/004-satzlehre/</loc>
+    <loc>https://kssmagister.github.io/ArsGrammatica/grammatik/004-satzlehre/</loc>
     <lastmod>2021-01-02T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hugo.kss-latein.info/grammatik/005-satzwertige-konstruktionen/</loc>
+    <loc>https://kssmagister.github.io/ArsGrammatica/grammatik/005-satzwertige-konstruktionen/</loc>
     <lastmod>2021-01-02T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hugo.kss-latein.info/lingualatina/</loc>
+    <loc>https://kssmagister.github.io/ArsGrammatica/arsgrammatica/</loc>
   </url>
   
   <url>
-    <loc>https://hugo.kss-latein.info/lingualatinapdf/</loc>
+    <loc>https://kssmagister.github.io/ArsGrammatica/arslatina/</loc>
   </url>
   
   <url>
-    <loc>https://hugo.kss-latein.info/categories/</loc>
+    <loc>https://kssmagister.github.io/ArsGrammatica/lingualatina/</loc>
   </url>
   
   <url>
-    <loc>https://hugo.kss-latein.info/tags/</loc>
+    <loc>https://kssmagister.github.io/ArsGrammatica/lingualatinapdf/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kssmagister.github.io/ArsGrammatica/test/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kssmagister.github.io/ArsGrammatica/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://kssmagister.github.io/ArsGrammatica/tags/</loc>
   </url>
   
 </urlset>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Vokabular on LinguaLatina</title>
-    <link>https://hugo.kss-latein.info/vokabular/</link>
-    <description>Recent content in Vokabular on LinguaLatina</description>
+    <title>Vokabular on ArsGrammatica</title>
+    <link>https://kssmagister.github.io/ArsGrammatica/vokabular/</link>
+    <description>Recent content in Vokabular on ArsGrammatica</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 03 Jan 2021 00:00:00 +0100</lastBuildDate><atom:link href="https://hugo.kss-latein.info/vokabular/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Jan 2021 00:00:00 +0100</lastBuildDate><atom:link href="https://kssmagister.github.io/ArsGrammatica/vokabular/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Grundwortschatz (adeo 500)</title>
-      <link>https://hugo.kss-latein.info/vokabular/001-vokabular/</link>
+      <link>https://kssmagister.github.io/ArsGrammatica/vokabular/001-vokabular/</link>
       <pubDate>Sun, 03 Jan 2021 00:00:00 +0100</pubDate>
       
-      <guid>https://hugo.kss-latein.info/vokabular/001-vokabular/</guid>
+      <guid>https://kssmagister.github.io/ArsGrammatica/vokabular/001-vokabular/</guid>
       <description> quizlet-sets für die 500 häufigsten lat. Wörter die 500 häufigsten Wörter als pdf-Datei  </description>
     </item>
     
